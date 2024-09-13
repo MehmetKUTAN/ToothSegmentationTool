@@ -17,7 +17,7 @@ This project processes dental images by isolating tooth contours and enhancing i
 
 | Original Image | Processed Image |
 | -------------- | --------------- |
-| ![Original](images/AA_B_E_14_01_41_O.jpg) | ![Processed](images/processed_image.png) |
+| ![Original](images/AA_B_E_14_04_12_O_F.jpg) | ![Processed](processed_image/AA_B_E_14_04_12_O_F_result.png) |
 
 ## Installation
 
@@ -28,7 +28,7 @@ This project processes dental images by isolating tooth contours and enhancing i
 
 2. Navigate to the project directory:
     ```bash
-    cd DentalImageProcessingTool
+    cd ToothSegmentationTool
     ```
 
 3. Install the required Python dependencies:

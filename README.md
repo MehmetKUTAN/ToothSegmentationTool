@@ -17,13 +17,13 @@ This project processes dental images by isolating tooth contours and enhancing i
 
 | Original Image | Processed Image |
 | -------------- | --------------- |
-| ![Original](images/original_image.png) | ![Processed](images/processed_image.png) |
+| ![Original](images/AA_B_E_14_01_41_O.jpg) | ![Processed](images/processed_image.png) |
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DentalImageProcessingTool.git
+    git clone https://github.com/MehmetKUTAN/ToothSegmentationTool.git
     ```
 
 2. Navigate to the project directory:
